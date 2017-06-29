@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vending Machine</title>
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/home.css">
+    </head>
+
+    <body>
+        <div class="container">
+            <h1 id="header"><center>Vending Machine</center></h1>
+            <hr/>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-7" id="candy">
+                    
+                </div>
+
+                <div class="col-xs-3" id="buttons" style="border:3px outset">
+                    <form class="form-horizontal" role="form" id="button-form">
+                        <div class="form-group">
+                             <div class="row"><br></div>
+                            <div class="row">
+                                <label for="total-money" class="col-xs-offset-4 col-xs-6">Total $ In</label>
+                            </div>
+                            
+                            <div class="row">
+                                <p class="col-xs-offset-3 col-xs-1">$</p>
+                                <div class="col-xs-4">
+                                <input type="text" class="form-control" id="total-money-display" readonly="readonly" placeholder="0.00">
+                                </div>
+                            </div>
+                            <div class="row"><br></div>
+                            
+                            <div class="row">
+                                <div class="col-xs-offset-1 col-xs-5">
+                                    <button type="button" id="add-dollar" class="btn btn-info btn-block container-fluid">Add Dollar</button>
+                                </div>
+                                <div class="col-xs-5">
+                                    <button type="button" id="add-quarter" class="btn btn-info btn-block container-fluid">Add Quarter</button>
+                                </div>
+                            </div>
+                            <div class="row"><br></div>
+                            <div class="row">
+                                <div class="col-xs-offset-1 col-xs-5">
+                                    <button type="button" id="add-dime" class="btn btn-info btn-block container-fluid">Add Dime</button>
+                                </div>
+                                <div class="col-xs-5">
+                                     <button type="button" id="add-nickel" class="btn btn-info btn-block container-fluid">Add Nickel</button>
+                                </div>
+                            </div>
+                            <hr/>
+                            <div class="row">
+                                <label for="messages" class="col-xs-offset-4 col-xs-6">Messages</label>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-offset-1 col-xs-10">
+                                    <input type="text" class="form-control" id="display-messages" readonly="readonly">
+                                </div>
+                            </div>
+                            <div class="row"><br></div>
+                            <div class="row">
+                                 <label for="item" class="col-xs-4 control-label">Item:</label>
+                                 <div class="col-xs-7">
+                                     <input type="text" class="form-control" id="display-item" readonly="readonly">
+                                 </div>
+                            </div>
+                            <div class="row"><br></div>
+                            <div class="row">
+                                <div class="col-xs-offset-1">
+                                    <button type="button" id="make-purchase" class="col-xs-11 btn btn-success container-fluid">Make Purchase</button>
+                                </div>
+                            </div>
+                            <hr/>
+                            <div class="row">
+                                <label for="change" class="col-xs-offset-4 col-xs-6">Change</label>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-xs-offset-1 col-xs-10">
+                                    <input type="text" class="form-control" id="display-change" readonly="readonly">
+                                </div>
+                            </div>
+                            <div class="row"><br></div>
+                            <div class="row">
+                                <div class="col-xs-offset-1">
+                                    <button type="button" id="change-return" class="col-xs-11 btn btn-warning">Change Return</button>
+                                </div>
+                            </div>
+
+                        </div>
+                    </form>
+                        
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+        <script src="js/jquery-2.2.4.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/home.js"></script>
+    </body>
+</html>
