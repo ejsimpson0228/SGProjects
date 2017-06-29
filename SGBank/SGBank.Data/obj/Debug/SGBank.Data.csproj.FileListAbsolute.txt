@@ -1,0 +1,7 @@
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csprojResolveAssemblyReference.cache
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Data\obj\Debug\SGBank.Data.pdb

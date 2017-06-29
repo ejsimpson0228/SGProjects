@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,"Alan,,,,,,Smith",OH,6.25,carpet,600,2.25,2.10,1350.00,1260.00,163.12,2773.12

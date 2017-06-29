@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Tom Foolery,IN,6.00,Trampoline,500,6.50,5.15,3250.00,2575.00,349.50

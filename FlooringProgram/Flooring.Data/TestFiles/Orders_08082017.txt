@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,"Eric Simpson",OH,6.25,Tile,900,3.50,4.15,3150.00,3735.00,430.31,7315.31

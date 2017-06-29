@@ -1,0 +1,5 @@
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Models\bin\Debug\Flooring.Models.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Models\bin\Debug\Flooring.Models.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Models\obj\Debug\Flooring.Models.csprojResolveAssemblyReference.cache
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Models\obj\Debug\Flooring.Models.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Models\obj\Debug\Flooring.Models.pdb

@@ -1,0 +1,14 @@
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.dll.config
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\bin\Debug\nunit.framework.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.BLL.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Data.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Models.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.BLL.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Data.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\bin\Debug\SGBank.Models.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\bin\Debug\nunit.framework.xml
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.pdb

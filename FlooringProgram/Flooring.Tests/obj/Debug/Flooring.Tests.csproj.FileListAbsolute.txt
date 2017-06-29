@@ -1,0 +1,13 @@
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\bin\Debug\Flooring.Tests.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\bin\Debug\Flooring.Tests.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\obj\Debug\Flooring.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\obj\Debug\Flooring.Tests.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\obj\Debug\Flooring.Tests.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\bin\Debug\Flooring.BLL.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\bin\Debug\Flooring.Data.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\bin\Debug\Flooring.Models.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\bin\Debug\nunit.framework.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\bin\Debug\Flooring.BLL.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\bin\Debug\Flooring.Data.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\bin\Debug\Flooring.Models.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\Flooring.Tests\bin\Debug\nunit.framework.xml

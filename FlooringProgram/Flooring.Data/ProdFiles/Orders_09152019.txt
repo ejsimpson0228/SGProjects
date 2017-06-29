@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Newby Newbert,IN,6.00,Carpet,300,2.25,2.10,675.00,630.00,78.30,1383.30

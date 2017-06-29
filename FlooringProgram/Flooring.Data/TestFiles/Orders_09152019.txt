@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Newbert,MI,5.75,trampoline,300,6.50,5.15,1950.00,1545.00,200.96,3695.96

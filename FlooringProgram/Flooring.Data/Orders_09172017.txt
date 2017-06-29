@@ -1,0 +1,2 @@
+OrderNumber|CustomerName|State|TaxRate|ProductType|Area|CostPerSquareFoot|LaborCostPerSquareFoot|MaterialCost|LaborCost|Tax|Total
+1|Eric Simpson|pa|0|laminate|200|0|0|0|0|0|0

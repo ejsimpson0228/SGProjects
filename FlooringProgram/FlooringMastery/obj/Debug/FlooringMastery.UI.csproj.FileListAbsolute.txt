@@ -1,0 +1,12 @@
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.exe.config
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.exe
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\FlooringMastery\bin\Debug\Flooring.Models.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\FlooringMastery\bin\Debug\Flooring.Models.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.exe
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\FlooringMastery\bin\Debug\Flooring.BLL.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\FlooringMastery\bin\Debug\Flooring.Data.dll
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\FlooringMastery\bin\Debug\Flooring.BLL.pdb
+C:\Users\ejsim\OneDrive\Documents\The Software Guild\Repos\Bitbucket\eric-simpson-individual-work\SGBank\FlooringMastery\FlooringMastery\bin\Debug\Flooring.Data.pdb

@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Eric Simpson,IN,6.00,Trampoline,800,6.50,5.15,5200.00,4120.00,559.20,9879.20
