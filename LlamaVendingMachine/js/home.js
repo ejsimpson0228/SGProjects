@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    loadCandy();
+    loadItem();
 
     var totalMoney = 0.00;
     var quarterCount = 0;
@@ -45,8 +45,8 @@ $(document).ready(function(){
 
     $("#make-purchase").click(function(){
         var moneyTotal = $("#total-money-display").val();
-        var candyId = $("#display-item").val();
-        if (candyId == "")
+        var itemId = $("#display-item").val();
+        if (itemId == "")
         {
             $("#display-messages").val("You forgot to choose an item");
         }
@@ -60,7 +60,7 @@ $(document).ready(function(){
         {
             $.ajax({
                 type: "GET",
-                url: "http://localhost:8080/money/" + moneyTotal + "/item/" + candyId,
+                url: "https://llama-vending.herokuapp.com/money/" + moneyTotal + "/item/" + itemId,
                 success: function(data, status) {
                     
                     $("#total-money-display").val(null);
@@ -70,10 +70,10 @@ $(document).ready(function(){
                     quarterCount = 0;
                     dimeCount = 0;
                     nickelCount = 0;
-                    loadCandy();
+                    loadItem();
                 },
-                error: function(candy) {
-                    $("#display-messages").val(candy.responseJSON.message);
+                error: function(item) {
+                    $("#display-messages").val(item.responseJSON.message);
                 }
             })
             
@@ -101,29 +101,29 @@ $(document).ready(function(){
 
 })
 
-function loadCandy(){
-    $("#candy").empty();
+function loadItem(){
+    $("#item").empty();
     $.ajax({
         type: "GET",
-        url: "http://localhost:8080/items",
-        success: function(candyArray) {
-            var candyDiv = $("#candy");
+        url: "https://llama-vending.herokuapp.com/items",
+        success: function(itemArray) {
+            var itemDiv = $("#item");
             
-            $.each(candyArray, function(index, candy){
+            $.each(itemArray, function(index, item){
                 
-                var candyInfo = "<div class='container-fluid col-sm-4'><div class='well' id='candy" + candy.id + "'><center>";
-                candyInfo += "<a class='btn btn-default' id='button'>";
-                candyInfo += "<div align='left'>" + candy.id + "</div>";
-                candyInfo += candy.name + "<br>";
-                candyInfo += "$" + candy.price.toFixed(2) + "<br>";
-                candyInfo += "Quantity Left: " + candy.quantity + "</a></center></div></div>";
+                var itemInfo = "<div class='container-fluid col-sm-4'><div class='well' id='item" + item.id + "'><center>";
+                itemInfo += "<a class='btn btn-default' id='button'>";
+                itemInfo += "<div align='left'>" + item.id + "</div>";
+                itemInfo += item.name + "<br>";
+                itemInfo += "$" + item.price.toFixed(2) + "<br>";
+                itemInfo += "Quantity Left: " + item.quantity + "</a></center></div></div>";
 
-                candyDiv.append(candyInfo);
+                itemDiv.append(itemInfo);
 
-                $("#candy" + candy.id + "").on("click", function(){ 
+                $("#item" + item.id + "").on("click", function(){ 
                     $("#display-messages").val(null);
                     $("#display-change").val(null);
-                    $('#display-item').val(candy.id);
+                    $('#display-item').val(item.id);
                 })
 
 
@@ -133,7 +133,7 @@ function loadCandy(){
 
         }, 
         error: function() {
-            alert("WHERE'S MY CANDY?!");
+            alert("Error loading file.");
         }
     });
 }
